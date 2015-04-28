@@ -62,3 +62,6 @@ EOF
 
         sleep 2
 done
+
+# Used to invoke main menu after exiting SSH session
+/bin/bash ./main.sh

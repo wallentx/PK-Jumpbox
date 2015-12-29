@@ -1,6 +1,6 @@
 # PK-Jumpbox
 
-## Informationm
+## INFORMATION
 A jumpbox to reach multiple endpoints (Dev, Staging, Prod) for various cloud services (Google Cloud Platform, Amazon Web Services).
 
 This assumes that you have a CLI installed and configured with an authenticated user for each cloud environment-

@@ -18,19 +18,19 @@ Make sure that you do not have any existing jumpbox files in place.
 
 
 1. Clone this repo.
-    $ git clone git@github.com:wallentx/PK-Jumpbox.git
+ * $ git clone git@github.com:wallentx/PK-Jumpbox.git
 
 2. cd into the repo dir.
-    $ cd PK-Jumpbox/
+ * $ cd PK-Jumpbox/
 
 3. Execute the install script.
-    $ ./install.sh
+ * $ ./install.sh
 
 4. Verify the existance of the files in $HOME/bin
-  $ which jumpmenu
+ * $ which jumpmenu
 
 ## Usage
 
 Either envoke the main menu manually
-    $ jumpmenu
+ * $ jumpmenu
 or set $HOME/bin/jumpmenu to execute upon connection if this is to be installed on a remote machine
